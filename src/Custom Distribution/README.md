@@ -1,6 +1,6 @@
 # Custom Distribution
 
-Allows developer to get a random number with any custom distribution.
+Allows developer to get a random number with any custom distribution. Zero allocations.
 
 ## How to use?
 - Instantiate CustomDistribution class with distribution function
